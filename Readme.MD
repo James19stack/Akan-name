@@ -17,3 +17,4 @@ Address:90 Kikuyu
 *MIT License*
 Copyright (c) {2020} **James Mirara**
 #### Here is a link to the website  
+https://james19stack.github.io/Akan-name/
