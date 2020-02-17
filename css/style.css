@@ -1,7 +1,7 @@
-body{
-    background-image: url(/images/ghana-flag.jpg);
-
-  
+  h1 {
+    text-align: center;
+    color: aqua;
+  }
   p {
     font-family: verdana;
     font-size: 20px;
